@@ -1,3 +1,0 @@
-# Un environnement
-
-test
