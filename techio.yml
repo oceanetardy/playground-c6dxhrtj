@@ -6,10 +6,6 @@ plan:
 - title: Pourquoi
   statement: markdowns/pourquoi.md
   
- - title: Un environnement
-  statement: markdowns/environnement.md
- 
- 
 projects:
   nodejs:
     root: /nodejs-project
