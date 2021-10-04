@@ -5,10 +5,6 @@ plan:
   
 - title: Pourquoi
   statement: markdowns/pourquoi.md
-  
- - title: Environnement
-  statement: markdowns/Environnement.md
- 
  
  
 projects:
