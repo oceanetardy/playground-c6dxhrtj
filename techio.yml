@@ -6,7 +6,7 @@ plan:
 - title: Pourquoi
   statement: markdowns/pourquoi.md
   
- - title: Environnement
+ - title: Mise en place de l'environnement
   statement: markdowns/Environnement.md
  
  
