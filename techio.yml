@@ -6,7 +6,7 @@ plan:
 - title: Pourquoi
   statement: markdowns/pourquoi.md
     
-- title: Test
+- title: page3
   statement: markdowns/page3.md
   
 projects:
