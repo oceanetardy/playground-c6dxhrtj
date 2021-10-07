@@ -34,7 +34,7 @@ let V = 'OUI2';
 
 ```javascript runnable
 const etude ="etude";
-mondiplome = 'REPONSE';
+mareponse = 'REPONSE';
 var F = 'NON';
 let V = 'OUI';
 
