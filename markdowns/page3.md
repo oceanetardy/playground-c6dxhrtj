@@ -7,7 +7,7 @@ pourquoi javascript
 -[x] 3
 -[ ]  4
 
-
+```
 javascript runnable
 const etude ="etude";
 mondiplome = 'IUT';
@@ -25,3 +25,4 @@ let maSpecialite = 'SLAM';
     console.log(mondiplome);
     console.log(maFormation);
     console.log(maSpecialite);
+```
