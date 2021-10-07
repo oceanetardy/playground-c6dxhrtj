@@ -12,43 +12,43 @@ Voici un morceau de code avec la déclaration de variables
 
 ```javascript 
 const etude ="etude";
-mondiplome = 'IUT';
-var maFormation = 'INFO';
-let maSpecialite = 'DEV';
+mareponse = 'REPONSE';
+var F = 'NON';
+let V = 'OUI';
 
 if (etude == "etude") {
-mondiplome = 'BTS';
-var maFormation = 'SIO';
-let maSpecialite = 'SLAM';
-    console.log(mondiplome);
-    console.log(maFormation);
-    console.log(maSpecialite);
+mareponse = 'REPONSE2';
+var F = 'NON2';
+let V = 'OUI2';
+    console.log(mareponse);
+    console.log(F);
+    console.log(V);
 }
     console.log(" en dehors du bloc");
-    console.log(mondiplome);
-    console.log(maFormation);
-    console.log(maSpecialite);
+    console.log(mareponse);
+    console.log(F);
+    console.log(V);
 ```
 
 
 
 ```javascript runnable
 const etude ="etude";
-mondiplome = 'IUT';
-var maFormation = 'INFO';
-let maSpecialite = 'DEV';
+mondiplome = 'REPONSE';
+var F = 'NON';
+let V = 'OUI';
 
 if (etude == "etude") {
-mondiplome = 'BTS';
-var maFormation = 'SIO';
-let maSpecialite = 'SLAM';
-    console.log(mondiplome);
-    console.log(maFormation);
-    console.log(maSpecialite);
+mareponse = 'REPONSE2';
+var F = 'NON';
+let V = 'OUI';
+    console.log(mareponse);
+    console.log(F);
+    console.log(V);
 }
     console.log(" en dehors du bloc");
-    console.log(mondiplome);
-    console.log(maFormation);
-    console.log(maSpecialite);
+    console.log(mareponse);
+    console.log(F);
+    console.log(V);
 
 ```
